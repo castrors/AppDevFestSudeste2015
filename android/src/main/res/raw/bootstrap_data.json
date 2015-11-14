@@ -206,480 +206,578 @@
   "speakers": [
     {
       "bio": "",
-      "name": "Alê Borba",
-      "company": "Google",
-      "plusoneUrl": "https://plus.google.com/u/0/+AlêBorba",
-      "thumbnailUrl": "http://sudeste.devfest.com.br/assets/img/speakers/ale-borba.jpg",
-      "id": "ale-borba",
-      "publicPlusId": ""
-    },
-    {
-      "bio": "",
-      "name": "Breno Araújo",
-      "company": "Google",
+      "name": "Fabiane Bizinella Nardon",
+      "company": "ToolsCloud",
       "plusoneUrl": "",
-      "thumbnailUrl": "http://sudeste.devfest.com.br/assets/img/speakers/breno-araujo.jpg",
-      "id": "breno-araujo",
+      "thumbnailUrl": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfl1/v/t1.0-1/1619542_10202233359707169_1066659628_n.jpg?oh=3862179aa13ee87881c845703741376e&oe=56F4FE3F&__gda__=1458534312_d58ae06f47f7b97568b8e028fa59df41",
+      "id": "fabiane-bizinella",
       "publicPlusId": ""
     },
     {
       "bio": "",
-      "name": "Hélio Padrão",
-      "company": "Nubank",
-      "plusoneUrl": "https://plus.google.com/u/0/+HélioPadrão",
-      "thumbnailUrl": "http://sudeste.devfest.com.br/assets/img/speakers/helio-padrao.jpg",
-      "id": "helio-padrao",
-      "publicPlusId": ""
-    },
-    {
-      "bio": "",
-      "name": "Suelen Goularte Carvalho",
-      "company": "Tripda",
-      "plusoneUrl": "https://plus.google.com/+SuelenGoularteCarvalho",
-      "thumbnailUrl": "http://sudeste.devfest.com.br/assets/img/speakers/suelen-carvalho.jpg",
-      "id": "suelen-carvalho",
-      "publicPlusId": ""
-    },
-    {
-      "bio": "",
-      "name": "Nelson Glauber",
-      "company": "CESAR",
-      "plusoneUrl": "https://plus.google.com/+NelsonGlauber",
-      "thumbnailUrl": "http://sudeste.devfest.com.br/assets/img/speakers/nelson-glauber.jpg",
-      "id": "nelson-glauber",
-      "publicPlusId": ""
-    },
-    {
-      "bio": "",
-      "name": "Marcelo Quinta",
-      "company": "UFG",
-      "plusoneUrl": "https://plus.google.com/+MarceloQuinta",
-      "thumbnailUrl": "http://sudeste.devfest.com.br/assets/img/speakers/marcelo-quinta.jpg",
-      "id": "marcelo-quinta",
-      "publicPlusId": ""
-    },
-    {
-      "bio": "",
-      "name": "Ana Paula Batista",
-      "company": "Google Design Expert",
-      "plusoneUrl": "https://plus.google.com/+AnaPaulaBatistaUX",
-      "thumbnailUrl": "http://sudeste.devfest.com.br/assets/img/speakers/ana-paula-batista.jpg",
-      "id": "ana-paula-batista",
-      "publicPlusId": ""
-    },
-    {
-      "bio": "",
-      "name": "Eduardo Carrara",
-      "company": "Intel",
-      "plusoneUrl": "https://plus.google.com/+EduardoCarraraDeAraujo",
-      "thumbnailUrl": "http://sudeste.devfest.com.br/assets/img/speakers/eduardo-carrara.jpg",
-      "id": "eduardo-carrara",
-      "publicPlusId": ""
-    },
-    {
-      "bio": "",
-      "name": "Joselito Júnior",
-      "company": "GDG Recife",
+      "name": "Augusto Sandim",
+      "company": "Jera",
       "plusoneUrl": "",
-      "thumbnailUrl": "http://sudeste.devfest.com.br/assets/img/speakers/joselito-junior.jpg",
-      "id": "joselito-junior",
+      "thumbnailUrl": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/c123.0.622.622/s160x160/1016474_4081757458157_393817479_n.jpg?oh=80d1fc5ead0aadb76a276100f38c61d2&oe=56F6D5BC&__gda__=1458687593_9651915cf432cbc56de072585acb3e15",
+      "id": "augusto-sandim",
       "publicPlusId": ""
     },
     {
       "bio": "",
-      "name": "Alda Rocha",
-      "company": "Instrutora UX",
+      "name": "Glauber Laender",
+      "company": "DigithoBrasil",
       "plusoneUrl": "",
-      "thumbnailUrl": "http://sudeste.devfest.com.br/assets/img/speakers/alda-rocha.jpg",
-      "id": "alda-rocha",
+      "thumbnailUrl": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfl1/v/t1.0-1/c30.0.740.740/s160x160/12046708_1002862299764044_7080334788901859848_n.jpg?oh=435898c80d81bb7437f65a1f97ed4862&oe=56F47F81&__gda__=1454908896_bd2cb852f2f9c83a7be334606821580e",
+      "id": "glauber-laender",
       "publicPlusId": ""
     },
     {
       "bio": "",
-      "name": "Wilson Mendes",
-      "company": "ThoughtWorks",
+      "name": "Alessandro Ferreira",
+      "company": "Tendência",
       "plusoneUrl": "",
-      "thumbnailUrl": "http://sudeste.devfest.com.br/assets/img/speakers/wilson-mendes.png",
-      "id": "wilson-mendes",
+      "thumbnailUrl": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/p160x160/10311710_836828566358868_3572585111000522992_n.jpg?oh=f7a7553f1090260afbb899d52314b152&oe=56AD568E&__gda__=1459260389_a41603409798dc9bdf176f0657b7663e",
+      "id": "alessandro-ferreira",
       "publicPlusId": ""
     },
     {
       "bio": "",
-      "name": "Gustavo Pantuza",
-      "company": "Globo.Com",
+      "name": "Peterson da Silva Santos",
+      "company": "",
       "plusoneUrl": "",
-      "thumbnailUrl": "http://sudeste.devfest.com.br/assets/img/speakers/gustavo-pantuza.jpg",
-      "id": "gustavo-pantuza",
+      "thumbnailUrl": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/p160x160/12246824_891704964284182_6002703401395404755_n.jpg?oh=4b272ca16fde09cc45f8f578ba56a886&oe=56B4B791&__gda__=1455244282_fc584e8b390b7eaba980a29ba1ff6b76",
+      "id": "peterson-santos",
       "publicPlusId": ""
     },
     {
       "bio": "",
-      "name": "Beto Muniz e Paulo Pires",
+      "name": "Stéfano H. dos Santos",
+      "company": "DigithoBrasil",
+      "plusoneUrl": "",
+      "thumbnailUrl": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/p160x160/10644831_853097841391566_6150132042992311729_n.jpg?oh=5daae600eb4f762b102ad881eb9a91a7&oe=56EFA908&__gda__=1458506253_d2960010b531ec1f9930ebdb2d98a0cc",
+      "id": "stefano-santos",
+      "publicPlusId": ""
+    },
+    {
+      "bio": "",
+      "name": "Carol Wirtti",
+      "company": "DigithoBrasil",
+      "plusoneUrl": "",
+      "thumbnailUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/000/248/136/1216a7f.jpg",
+      "id": "carol-wirtti",
+      "publicPlusId": ""
+    },
+    {
+      "bio": "",
+      "name": "Aurineide Cavalcante",
+      "company": "Jera",
+      "plusoneUrl": "",
+      "thumbnailUrl": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtp1/v/t1.0-1/p160x160/11401147_10153054999236225_6934671741225836811_n.jpg?oh=66c4a40b938fcdd31a219ea489f3b83a&oe=56AFD201&__gda__=1454373337_b99f596e9a35e3b2db9e5a30636a41ff",
+      "id": "auri-cavalcante",
+      "publicPlusId": ""
+    },
+    {
+      "bio": "",
+      "name": "Desirée de Megre Amaral da Silva",
+      "company": "DigithoBrasil",
+      "plusoneUrl": "",
+      "thumbnailUrl": "https://media.licdn.com/media/p/7/000/239/05c/02ec8f3.jpg",
+      "id": "desiree-silva",
+      "publicPlusId": ""
+    },
+    {
+      "bio": "",
+      "name": "Renan Siravegna",
+      "company": "DigithoBrasil",
+      "plusoneUrl": "",
+      "thumbnailUrl": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/c12.0.160.160/p160x160/10411002_1518860415022658_4777763734824879238_n.jpg?oh=389185231d3f568de9d51fb8bc1e6ed3&oe=56FA8E24&__gda__=1458430866_8d0f740caa19e772aee6df8dddc858f8",
+      "id": "renan-siravegna",
+      "publicPlusId": ""
+    },
+    {
+      "bio": "",
+      "name": "Olavo",
+      "company": "Financial Informática Ltda",
+      "plusoneUrl": "",
+      "thumbnailUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/4/005/029/2c4/2d8ebdf.jpg",
+      "id": "olavo",
+      "publicPlusId": ""
+    },
+    {
+      "bio": "",
+      "name": "Sandys de Castro Nunes",
+      "company": "TecSinapse",
+      "plusoneUrl": "",
+      "thumbnailUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAcVAAAAJGNmYTg2MGY0LTNmNzAtNDYyOC1hMWJhLTgzYmJjZDdhYzlkNQ.jpg",
+      "id": "sandys-nunes",
+      "publicPlusId": ""
+    },
+    {
+      "bio": "",
+      "name": "Pedro Calgaro",
+      "company": "Jera",
+      "plusoneUrl": "",
+      "thumbnailUrl": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xta1/v/t1.0-1/p160x160/11390336_974804062539085_3372925462706533934_n.jpg?oh=f3158a137b23cc05211fc17b3ead3120&oe=56EEF5E9&__gda__=1455147207_59ce55acf83ddaeca7923572d73beff9",
+      "id": "pedro-calgaro",
+      "publicPlusId": ""
+    },
+    {
+      "bio": "",
+      "name": "Edilmar Alves",
       "company": "",
       "plusoneUrl": "",
       "thumbnailUrl": "",
-      "id": "Beto Muniz e Paulo Pires",
+      "id": "edilmar-alves",
       "publicPlusId": ""
     },
     {
       "bio": "",
-      "name": "Ana Carolina Soares",
+      "name": "João Bosco Monteiro",
+      "company": "TecSinapse",
+      "plusoneUrl": "",
+      "thumbnailUrl": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfp1/v/t1.0-1/p160x160/11060456_769580596486737_4915036045387205265_n.jpg?oh=0dc2a5a0ff5f30e42bfec758b9e8e470&oe=56BAD0E1&__gda__=1455052682_a3bd3bfcf58d6d520fc178380d91d3dc",
+      "id": "joao-bosco",
+      "publicPlusId": ""
+    },
+    {
+      "bio": "",
+      "name": "Ney Ricardo Melo Barão",
+      "company": "Jera",
+      "plusoneUrl": "",
+      "thumbnailUrl": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtp1/v/t1.0-1/p160x160/12208536_10207960102138848_7354479207843315653_n.jpg?oh=9e5978f6c00b8e3658815b82754ec242&oe=56BB26FA&__gda__=1454849570_c4af3700e7c3d9af40c8e925434a72fa",
+      "id": "ney-ricardo",
+      "publicPlusId": ""
+    },
+    {
+      "bio": "",
+      "name": "Higor Nucci",
       "company": "",
       "plusoneUrl": "",
-      "thumbnailUrl": "http://sudeste.devfest.com.br/assets/img/speakers/ana-carolina.png",
-      "id": "ana-carolina",
+      "thumbnailUrl": "https://pbs.twimg.com/profile_images/484445123158495232/mtOB4oEC_400x400.jpeg",
+      "id": "higor-nucci",
       "publicPlusId": ""
     },
     {
       "bio": "",
-      "name": "Matt Montenegro e Liliane Carvalho",
-      "company": "",
+      "name": "Daniel Cristaldo Martinez",
+      "company": "AZ",
       "plusoneUrl": "",
       "thumbnailUrl": "",
-      "id": "matt-liliane",
+      "id": "daniel-martinez",
       "publicPlusId": ""
     },
     {
       "bio": "",
-      "name": "Felipe Silvestre",
-      "company": "Hotmart",
+      "name": "Samuel Cavalcante",
+      "company": "DigithoBrasil",
       "plusoneUrl": "",
-      "thumbnailUrl": "http://sudeste.devfest.com.br/assets/img/speakers/felipe-silvestre.jpg",
-      "id": "felipe-silvestre",
+      "thumbnailUrl": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtp1/v/t1.0-1/p160x160/11924560_10204605728135764_5558828993613746663_n.jpg?oh=c7627e6c777744f2bc78e6ddea065ffb&oe=56B1D546&__gda__=1459097246_c7b1a74d86d8ed25b7c7db34797720b2",
+      "id": "samuel-cavalcante",
+      "publicPlusId": ""
+    },
+    {
+      "bio": "",
+      "name": "Edgar Corrêa",
+      "company": "DigithoBrasil",
+      "plusoneUrl": "",
+      "thumbnailUrl": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-frc3/v/t1.0-1/p160x160/10383986_4934090087429_2736005476853954155_n.jpg?oh=86ed3bb7cffceb29db4ba6843ba105a0&oe=56F5BC9C&__gda__=1458684951_acc4295e23aec7cbc19bca2b14a9fb04",
+      "id": "edgar-correa",
       "publicPlusId": ""
     }
   ],
   "blocks": [
     {
-      "start": "2015-10-24T10:00:00.000Z",
+      "start": "2015-11-14T10:00:00.000Z",
       "title": "Credenciamento",
       "type": "break",
       "subtitle": "",
-      "end": "2015-10-24T10:50:00.000Z"
+      "end": "2015-11-14T10:30:00.000Z"
     },
     {
-      "start": "2015-10-24T10:50:00.000Z",
-      "title": "Welcome coffee",
-      "type": "break",
-      "subtitle": "",
-      "end": "2015-10-24T11:10:00.000Z"
-    },
-    {
-      "start": "2015-10-24T11:15:00.000Z",
+      "start": "2015-11-14T10:30:00.000Z",
       "title": "Abertura",
       "type": "break",
       "subtitle": "",
-      "end": "2015-10-24T11:30:00.000Z"
+      "end": "2015-11-14T11:00:00.000Z"
     },
     {
-      "start": "2015-10-24T12:00:00.000Z",
-      "title": "Coffee Break",
-      "type": "break",
-      "subtitle": "",
-      "end": "2015-10-24T12:20:00.000Z"
-    },
-    {
-      "start": "2015-10-24T14:00:00.000Z",
+      "start": "2015-11-14T14:00:00.000Z",
       "title": "Almoço",
       "type": "break",
       "subtitle": "O almoço não está incluso.",
-      "end": "2015-10-15T15:30:00.000Z"
+      "end": "2015-11-14T16:00:00.000Z"
     },
     {
-      "start": "2015-10-24T17:25:00.000Z",
+      "start": "2015-11-14T15:00:00.000Z",
+      "title": "Open Spaces",
+      "type": "break",
+      "subtitle": "",
+      "end": "2015-11-14T16:00:00.000Z"
+    },
+    {
+      "start": "2015-11-14T18:00:00.000Z",
       "title": "Coffee Break",
       "type": "break",
       "subtitle": "",
-      "end": "2015-10-24T17:40:00.000Z"
+      "end": "2015-11-14T18:30:00.000Z"
     },
     {
-      "start": "2015-10-24T19:10:00.000Z",
+      "start": "2015-11-14T19:20:00.000Z",
       "title": "Sorteio de brindes, foto final e encerramento",
       "type": "break",
       "subtitle": "",
-      "end": "2015-10-24T19:30:00.000Z"
+      "end": "2015-11-14T20:00:00.000Z"
     },
     {
-      "start": "2015-10-24T19:30:00.000Z",
+      "start": "2015-11-14T20:00:00.000Z",
       "title": "Happy Hour",
       "type": "break",
       "subtitle": "",
-      "end": "2015-10-25T22:00:00.000Z"
+      "end": "2015-11-15T01:59:00.000Z"
     }
   ],
   "partners": [],
   "sessions": [
     {
       "speakers": [
-        "ale-borba"
+        "fabiane-bizinella"
       ],
       "description": "",
       "title": "Keynote",
       "url": "",
-      "startTimestamp": "2015-10-24T11:30:00Z",
+      "startTimestamp": "2015-11-14T11:00:00Z",
       "tags": [
       ],
       "id": "fbaaedc8-61f2-e311-903f-00155d5066d7",
       "room": "principal",
       "isLivestream": false,
-      "endTimestamp": "2015-10-24T12:20:00Z",
+      "endTimestamp": "2015-11-14T12:00:00Z",
       "captionsUrl": "",
       "color": "#3f51b5"
     },
     {
       "speakers": [
-        "breno-araujo"
+        "augusto-sandim"
       ],
       "description": "",
-      "title": "Introdução à DeepLinks e App Indexing",
+      "title": "Material Design para Web",
       "url": "",
-      "startTimestamp": "2015-10-24T12:20:00Z",
+      "startTimestamp": "2015-11-14T12:00:00Z",
       "tags": [
-        "THEME_MOBILE"],
+        "THEME_DEVELOPMENT"
+      ],
       "id": "fbaaedc8-61f2-e311-903f-00155d5066d8",
-      "room": "principal",
+      "room": "arara",
       "isLivestream": false,
-      "endTimestamp": "2015-10-24T13:10:00Z",
+      "endTimestamp": "2015-11-14T12:30:00Z",
       "captionsUrl": "",
       "color": "#91BD55"
     },
     {
       "speakers": [
-        "helio-padrao"
+        "glauber-laender"
       ],
       "description": "",
-      "title": "Nubank + Refactor + Android Architecture",
+      "title": "Campanha de evangelização para entregar boas experiências para o usuário",
       "url": "",
-      "startTimestamp": "2015-10-24T13:10:00Z",
+      "startTimestamp": "2015-11-14T12:30:00Z",
       "tags": [
-        "THEME_MOBILE"],
+        "THEME_DESIGN"
+      ],
       "id": "fbaaedc8-61f2-e311-903f-00155d5066d9",
-      "room": "principal",
+      "room": "arara",
       "isLivestream": false,
-      "endTimestamp": "2015-10-24T14:00:00Z",
+      "endTimestamp": "2015-11-14T13:00:00Z",
       "captionsUrl": "",
-      "color": "#91BD55"
+      "color": "#1EAAF1"
     },
     {
       "speakers": [
-        "suelen-carvalho"
+        "alessandro-ferreira"
       ],
       "description": "",
-      "title": "As últimas novidades que todo desenvolvedor deveria saber sobre Android",
+      "title": "Deep Learning: da Teoria ao Estado da Arte em Aplicações Práticas",
       "url": "",
-      "startTimestamp": "2015-10-24T15:30:00Z",
+      "startTimestamp": "2015-11-14T13:00:00Z",
       "tags": [
-        "THEME_MOBILE"],
+        "THEME_DEVELOPMENT"
+      ],
       "id": "fbaaedc8-61f2-e311-903f-00155d5066da",
-      "room": "principal",
+      "room": "arara",
       "isLivestream": false,
-      "endTimestamp": "2015-10-24T16:00:00Z",
+      "endTimestamp": "2015-11-14T14:00:00Z",
       "captionsUrl": "",
       "color": "#91BD55"
     },
     {
       "speakers": [
-        "nelson-glauber"
+        "peterson-santos"
       ],
       "description": "",
-      "title": "Android Wear",
+      "title": "Games - Mercado, Carreira e Perspectivas",
       "url": "",
-      "startTimestamp": "2015-10-24T16:05:00Z",
+      "startTimestamp": "2015-11-14T12:00:00Z",
       "tags": [
-        "THEME_MOBILE"],
+        "THEME_GAMES"
+      ],
       "id": "fbaaedc8-61f2-e311-903f-00155d5066db",
       "room": "principal",
       "isLivestream": false,
-      "endTimestamp": "2015-10-24T16:35:00Z",
+      "endTimestamp": "2015-11-14T13:00:00Z",
       "captionsUrl": "",
-      "color": "#91BD55"
+      "color": "#009688"
     },
     {
       "speakers": [
-        "marcelo-quinta"
+        "stefano-santos"
       ],
       "description": "",
-      "title": "NearBy e Beacons",
+      "title": "Automatizando a Implantação de Software",
       "url": "",
-      "startTimestamp": "2015-10-24T16:45:00Z",
+      "startTimestamp": "2015-11-14T13:00:00Z",
       "tags": [
-        "THEME_MOBILE"],
+        "THEME_DEVELOPMENT"
+      ],
       "id": "fbaaedc8-61f2-e311-903f-00155d5066dc",
       "room": "principal",
       "isLivestream": false,
-      "endTimestamp": "2015-10-24T17:20:00Z",
+      "endTimestamp": "2015-11-14T14:00:00Z",
       "captionsUrl": "",
       "color": "#91BD55"
     },
     {
       "speakers": [
-        "ana-paula-batista"
+        "carol-wirtti"
       ],
       "description": "",
-      "title": "Design Sprint: seu MLP em até 5 dias",
+      "title": "Desmistificando o papel do desenvolvedor de software na análise de requisitos",
       "url": "",
-      "startTimestamp": "2015-10-24T17:40:00Z",
+      "startTimestamp": "2015-11-14T12:00:00Z",
       "tags": [
-        "THEME_MOBILE"],
+        "THEME_AGILE"
+      ],
       "id": "fbaaedc8-61f2-e311-903f-00155d5066dd",
-      "room": "principal",
+      "room": "capivara",
       "isLivestream": false,
-      "endTimestamp": "2015-10-24T18:15:00Z",
+      "endTimestamp": "2015-11-14T12:30:00Z",
       "captionsUrl": "",
-      "color": "#91BD55"
+      "color": "#E62565"
     },
     {
       "speakers": [
-        "eduardo-carrara"
+        "auri-cavalcante"
       ],
       "description": "",
-      "title": "Utilizando o Espresso e UIAutomator na Automação de Testes em Apps Android",
+      "title": "Qualidade de Software X Qualidade no Atendimento",
       "url": "",
-      "startTimestamp": "2015-10-24T18:15:00Z",
+      "startTimestamp": "2015-11-14T12:30:00Z",
       "tags": [
-      "THEME_MOBILE"],
+        "THEME_AGILE"
+      ],
       "id": "fbaaedc8-61f2-e311-903f-00155d5066de",
-      "room": "principal",
+      "room": "capivara",
       "isLivestream": false,
-      "endTimestamp": "2015-10-24T19:00:00Z",
+      "endTimestamp": "2015-11-14T13:00:00Z",
+      "captionsUrl": "",
+      "color": "#E62565"
+    },
+    {
+      "speakers": [
+        "desiree-silva"
+      ],
+      "description": "",
+      "title": "Criação de uma solução de negócio em time - Um caso real",
+      "url": "",
+      "startTimestamp": "2015-11-14T13:00:00Z",
+      "tags": [
+        "THEME_AGILE"
+      ],
+      "id": "fbaaedc8-61f2-e311-903f-asdfsdfdsfas",
+      "room": "capivara",
+      "isLivestream": false,
+      "endTimestamp": "2015-11-14T14:00:00Z",
+      "captionsUrl": "",
+      "color": "#E62565"
+    },
+    {
+      "speakers": [
+        "renan-siravegna"
+      ],
+      "description": "",
+      "title": "Arquitetura front-end visando testabilidade e rápida reação a mudanças",
+      "url": "",
+      "startTimestamp": "2015-11-14T16:00:00Z",
+      "tags": [
+        "THEME_DEVELOPMENT"
+      ],
+      "id": "fbaaedc8-61f2-e311-903f-ddsadf",
+      "room": "arara",
+      "isLivestream": false,
+      "endTimestamp": "2015-11-14T17:00:00Z",
       "captionsUrl": "",
       "color": "#91BD55"
     },
     {
       "speakers": [
-        "joselito-junior"
+        "olavo"
       ],
       "description": "",
-      "title": "¿Web o Plomo? O Chrome e uma web cada vez mais nativa",
+      "title": "E o PHP 7?",
       "url": "",
-      "startTimestamp": "2015-10-24T15:30:00Z",
+      "startTimestamp": "2015-11-14T17:00:00Z",
       "tags": [
-      "THEME_WEB"],
-      "id": "fbaaedc8-61f2-e311-903f-asdfsdfdsfas",
-      "room": "nivel-1",
-      "isLivestream": false,
-      "endTimestamp": "2015-10-24T16:00:00Z",
-      "captionsUrl": "",
-      "color": "#1EAAF1"
-    },
-    {
-      "speakers": [
-        "alda-rocha"
+        "THEME_DEVELOPMENT"
       ],
-      "description": "",
-      "title": "Lendas e mitos sobre design e layout responsivo",
-      "url": "",
-      "startTimestamp": "2015-10-24T16:45:00Z",
-      "tags": [
-      "THEME_WEB"],
-      "id": "fbaaedc8-61f2-e311-903f-ddsadf",
-      "room": "nivel-1",
-      "isLivestream": false,
-      "endTimestamp": "2015-10-24T17:20:00Z",
-      "captionsUrl": "",
-      "color": "#1EAAF1"
-    },
-    {
-      "speakers": [
-        "wilson-mendes"
-      ],
-      "description": "",
-      "title": "Performance com AngularJS",
-      "url": "",
-      "startTimestamp": "2015-10-24T17:40:00Z",
-      "tags": [
-      "THEME_WEB"],
       "id": "fbaaedc8-61f2-e311-903f-234dfsdgasfd",
-      "room": "nivel-1",
+      "room": "arara",
       "isLivestream": false,
-      "endTimestamp": "2015-10-24T18:15:00Z",
+      "endTimestamp": "2015-11-14T17:30:00Z",
       "captionsUrl": "",
-      "color": "#1EAAF1"
+      "color": "#91BD55"
     },
     {
       "speakers": [
-        "gustavo-pantuza"
+        "sandys-nunes"
       ],
       "description": "",
-      "title": "Sockets em baixo nível",
+      "title": "Machine Learning com Apache Spark",
       "url": "",
-      "startTimestamp": "2015-10-24T18:20:00Z",
+      "startTimestamp": "2015-11-14T17:30:00Z",
       "tags": [
-      "THEME_WEB"],
+        "THEME_DEVELOPMENT"
+      ],
       "id": "fbaaedc8-61f2-e311-903f-dfgdfg34435",
-      "room": "nivel-1",
+      "room": "arara",
       "isLivestream": false,
-      "endTimestamp": "2015-10-24T19:00:00Z",
+      "endTimestamp": "2015-11-14T18:00:00Z",
       "captionsUrl": "",
-      "color": "#1EAAF1"
+      "color": "#91BD55"
     },
     {
       "speakers": [
-        "Beto Muniz e Paulo Pires"
+        "pedro-calgaro"
       ],
       "description": "",
-      "title": "Espaço Comunidades",
+      "title": "Building Better APIs",
       "url": "",
-      "startTimestamp": "2015-10-24T15:30:00Z",
+      "startTimestamp": "2015-11-14T16:00:00Z",
       "tags": [
-      "THEME_EXPO"],
+        "THEME_DEVELOPMENT"
+      ],
       "id": "fbaaedc8-61f2-e311-903f-dfvcvw",
-      "room": "nivel-2",
+      "room": "principal",
       "isLivestream": false,
-      "endTimestamp": "2015-10-24T16:45:00Z",
+      "endTimestamp": "2015-11-14T17:00:00Z",
       "captionsUrl": "",
-      "color": "#E62565"
+      "color": "#91BD55"
     },
     {
       "speakers": [
-        "ana-carolina"
+        "edilmar-alves"
       ],
       "description": "",
-      "title": "Espaço Mulheres na Tecnologia",
+      "title": "Uma carreira de 15 Anos em Java",
       "url": "",
-      "startTimestamp": "2015-10-24T16:45:00Z",
+      "startTimestamp": "2015-11-14T17:00:00Z",
       "tags": [
-      "THEME_EXPO"],
+        "THEME_DEVELOPMENT"
+      ],
       "id": "fbaaedc8-61f2-e311-903f-wertv",
-      "room": "nivel-2",
+      "room": "principal",
       "isLivestream": false,
-      "endTimestamp": "2015-10-24T17:25:00Z",
+      "endTimestamp": "2015-11-14T17:30:00Z",
       "captionsUrl": "",
-      "color": "#E62565"
+      "color": "#91BD55"
     },
     {
       "speakers": [
-        "matt-liliane"
+        "joao-bosco"
       ],
       "description": "",
-      "title": "Espaço Startups",
+      "title": "1001 dicas de carreira",
       "url": "",
-      "startTimestamp": "2015-10-24T17:40:00Z",
+      "startTimestamp": "2015-11-14T17:30:00Z",
       "tags": [
-      "THEME_EXPO"],
+        "THEME_DEVELOPMENT"
+      ],
       "id": "fbaaedc8-61f2-e311-903f-wedfbdf",
-      "room": "nivel-2",
+      "room": "principal",
       "isLivestream": false,
-      "endTimestamp": "2015-10-24T19:00:00Z",
+      "endTimestamp": "2015-11-14T18:00:00Z",
       "captionsUrl": "",
-      "color": "#E62565"
+      "color": "#91BD55"
     },
     {
       "speakers": [
-        "felipe-silvestre"
+        "ney-ricardo"
       ],
       "description": "",
-      "title": "Conheça os bastidores que tornaram a Hotmart, uma startup de dois programadores, em um negócio de escala global",
+      "title": "Por que as pessoas deixam de usar seu software",
       "url": "",
-      "startTimestamp": "2015-10-24T16:05:00Z",
+      "startTimestamp": "2015-11-14T16:00:00Z",
       "tags": [
-        "THEME_WEB"],
-      "id": "fbaaedc8-61f2-e311-903f-wfbdf54",
-      "room": "nivel-1",
+        "THEME_DESIGN"
+      ],
+      "id": "fbaaedc8-61f2-e311-903f-wfbdf21",
+      "room": "capivara",
       "isLivestream": false,
-      "endTimestamp": "2015-10-24T16:35:00Z",
+      "endTimestamp": "2015-11-14T16:30:00Z",
       "captionsUrl": "",
       "color": "#1EAAF1"
+    },
+    {
+      "speakers": [
+        "higor-nucci"
+      ],
+      "description": "",
+      "title": "Clean code: como um código ruim pode influenciar a produtividade",
+      "url": "",
+      "startTimestamp": "2015-11-14T16:30:00Z",
+      "tags": [
+        "THEME_DEVELOPMENT"
+      ],
+      "id": "fbaaedc8-61f2-e311-903f-wfbdf76",
+      "room": "capivara",
+      "isLivestream": false,
+      "endTimestamp": "2015-11-14T17:00:00Z",
+      "captionsUrl": "",
+      "color": "#91BD55"
+    },
+    {
+      "speakers": [
+        "daniel-martinez"
+      ],
+      "description": "",
+      "title": "Criando Aplicações Java com AngularJS",
+      "url": "",
+      "startTimestamp": "2015-11-14T17:00:00Z",
+      "tags": [
+        "THEME_DEVELOPMENT"
+      ],
+      "id": "fbaaedc8-61f2-e311-903f-wfbdf34",
+      "room": "capivara",
+      "isLivestream": false,
+      "endTimestamp": "2015-11-14T18:00:00Z",
+      "captionsUrl": "",
+      "color": "#91BD55"
+    },
+    {
+      "speakers": [
+        "samuel-cavalcante",
+        "edgar-correa"
+      ],
+      "description": "",
+      "title": "Como Mudar o Mundo",
+      "url": "",
+      "startTimestamp": "2015-11-14T18:30:00Z",
+      "tags": [
+      ],
+      "id": "fbaaedc8-61f2-e311-903f-00155d5066a2",
+      "room": "principal",
+      "isLivestream": false,
+      "endTimestamp": "2015-11-14T19:20:00Z",
+      "captionsUrl": "",
+      "color": "#3f51b5"
     }
   ],
   "video_library": [],
@@ -687,38 +785,38 @@
     {
       "color": "#303f9f",
       "order": 1,
-      "name": "#DevFestSudeste",
-      "description": "Follow the general Google+ social conversation happening around DevFest 2015."
+      "name": "#Javaneiros2015",
+      "description": "Follow the general Google+ social conversation happening around Javaneiros 2015."
     },
     {
       "color": "#9fa8da",
       "order": 10,
-      "name": "#DevFestSudeste #Web",
+      "name": "#Javaneiros2015 #Development",
       "description": "Follow the Google+ social conversation about the Keynote announcements at DevFest 2015."
     },
     {
       "color": "#3f51b5",
       "order": 20,
-      "name": "#DevFestSudeste #Mobile",
-      "description": "Follow the Google+ social conversation about \"Design\" at DevFest 2015."
+      "name": "#Javaneiros2015 #Agile",
+      "description": "Follow the Google+ social conversation about \"Agile\" at Javaneiros 2015."
     },
     {
       "color": "#03a9f4",
       "order": 21,
-      "name": "#DevFestSudeste #Expo",
-      "description": "Follow the Google+ social conversation about \"Develop\" at DevFest 2015."
+      "name": "#Javaneiros2015 #Games",
+      "description": "Follow the Google+ social conversation about \"Games\" at Javaneiros 2015."
     },
     {
       "color": "#558b2f",
       "order": 31,
-      "name": "#DevFestSudeste #Hackathon",
-      "description": "Follow the Google+ social conversation about \"Android\" at DevFest 2015."
+      "name": "#Javaneiros2015 #Design",
+      "description": "Follow the Google+ social conversation about \"Design\" at Javaneiros 2015."
     },
     {
       "color": "#3367d6",
       "order": 32,
-      "name": "#DevFestSudeste #Comunidades",
-      "description": "Follow the Google+ social conversation about \"Chrome\" at DevFest 2015."
+      "name": "#Javaneiros2015 #Mobile",
+      "description": "Follow the Google+ social conversation about \"Mobile\" at Javaneiros 2015."
     }
   ],
   "experts": [],
@@ -730,37 +828,45 @@
     },
     {
       "original_id": "f770c62b-2cda-e311-b297-00155d5066d8",
-      "id": "nivel-1",
-      "name": "Nível 1"
+      "id": "arara",
+      "name": "Arara"
     },
     {
       "original_id": "f770c62b-2cda-e311-b297-00155d5066d0",
-      "id": "nivel-2",
-      "name": "Nível 2"
+      "id": "capivara",
+      "name": "Capivara"
     }
   ],
   "tags": [
     {
       "category": "THEME",
-      "name": "Web",
+      "name": "Desenvolvimento",
       "abstract": "",
-      "tag": "THEME_WEB",
+      "tag": "THEME_DEVELOPMENT",
       "original_id": "2ade1c01-8ed0-e311-b297-00155d5066d7",
       "order_in_category": 2
     },
     {
       "category": "THEME",
-      "name": "Mobile",
+      "name": "Design/UX",
       "abstract": "",
-      "tag": "THEME_MOBILE",
+      "tag": "THEME_DESIGN",
       "original_id": "2ade1c01-8ed0-e311-b297-00155d5066d7",
       "order_in_category": 2
     },
     {
       "category": "THEME",
-      "name": "Comunidades",
+      "name": "Agile",
       "abstract": "",
-      "tag": "THEME_EXPO",
+      "tag": "THEME_AGILE",
+      "original_id": "2ade1c01-8ed0-e311-b297-00155d5066d7",
+      "order_in_category": 2
+    },
+    {
+      "category": "THEME",
+      "name": "Games",
+      "abstract": "",
+      "tag": "THEME_GAMES",
       "original_id": "2ade1c01-8ed0-e311-b297-00155d5066d7",
       "order_in_category": 2
     }

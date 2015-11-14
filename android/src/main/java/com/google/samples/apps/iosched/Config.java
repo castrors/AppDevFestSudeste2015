@@ -43,20 +43,20 @@ public class Config {
     public static final String BOOTSTRAP_DATA_TIMESTAMP = "Thu, 10 Apr 2014 00:01:03 GMT";
 
     // Conference hashtag
-    public static final String CONFERENCE_HASHTAG = "#devfestsudeste";
+    public static final String CONFERENCE_HASHTAG = "#javaneiros";
 
     // Patterns that, when absent from a hashtag, will trigger the addition of the
     // CONFERENCE_HASHTAG on sharing snippets. Ex: "#Android" will be shared as "#io14 #Android",
     // but "#iohunt" won't be modified.
-    public static final String CONFERENCE_HASHTAG_PREFIX = "#devfestsudeste";
+    public static final String CONFERENCE_HASHTAG_PREFIX = "#javaneiros";
 
     // Hard-coded conference dates. This is hardcoded here instead of extracted from the conference
     // data to avoid the Schedule UI breaking if some session is incorrectly set to a wrong date.
     public static final int CONFERENCE_YEAR = 2014;
 
     public static final long[][] CONFERENCE_DAYS = new long[][] {
-            { ParserUtils.parseTime("2015-10-24T07:00:00.000Z"),
-              ParserUtils.parseTime("2015-10-26T06:59:59.999Z") }
+            { ParserUtils.parseTime("2015-11-14T07:00:00.000Z"),
+              ParserUtils.parseTime("2015-11-15T06:59:59.999Z") }
         };
 
     public static final TimeZone CONFERENCE_TIMEZONE = TimeZone.getTimeZone("America/Sao_Paulo");
